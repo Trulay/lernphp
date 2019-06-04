@@ -5,4 +5,5 @@ echo "hello world";
 echo "привет";
 echo "привет";
 echo "привет";
+echo "привет";
 ?>
